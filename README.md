@@ -4,4 +4,4 @@ A demo repository for a github workshop
 
 Important links
 ------------------
-* [Stanford](http://stanford.edu)
+* [Stanford University] (http://stanford.edu)
